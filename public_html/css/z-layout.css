@@ -23,7 +23,7 @@ body {
 #primaryContent {
     float: left;
     width: 66%;
-    background-color: sandybrown;
+    background-color: #c1c9d2;
 
 }
 
@@ -36,7 +36,7 @@ body {
     text-align: center;
     height: 100px;
     line-height: 100px;
-    background-color: tan;
+    background-color: #5e7184;
 }
 #wrapper {
     width: 90%;
@@ -65,6 +65,21 @@ body {
     font-weight:bold;
 }
 
+#figcaptionTag2 {
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    font-weight:bold;
+}
+
+#figcaptionTag3 {
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    font-weight:bold;
+}
 
 @media only screen and (max-width: 600px) {
     .hidden {
@@ -88,7 +103,17 @@ body {
     line-height: 1;
     float: left;
 }
+#justifyText2 {
+    text-align: justify;
+    line-height: 1;
+    float: left;
+}
 
 div.center {
     text-align: center;
+}
+p {
+    line-height: 2;
+    text-align: justify;
+    font-size:20px;
 }
