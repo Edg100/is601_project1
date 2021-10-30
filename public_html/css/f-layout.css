@@ -26,8 +26,7 @@ body {
 }
 
 #secondaryContent {
-    background-color: black;
-    text-align: center;
+
 }
 
 #footer {
@@ -35,9 +34,86 @@ body {
     height: 100px;
     line-height: 100px;
     background-color: tan;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #wrapper {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #001f3f;
+    top: 0; /* Position the navbar at the top of the page */
+    width: 90%; /* Full width */
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+/* Main content */
+.main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#abcOrder {
+    list-style-type: lower-alpha;
+}
+
+#ABCOrder {
+    list-style-type: upper-alpha;
+}
+
+#gfg {
+    color:#001f3f;
+    font-size:50px;
+    font-weight:bold;
+    text-align: center;
+}
+
+#geeks {
+    text-align: center;
+    font-size:35px;
+    font-weight:bold;
+}
+#justifyText {
+    text-align: justify;
+    line-height: 1 ;
+    float: left;
+    font-style: italic;
+}
+div.center {
+    text-align: center;
+}
+
+#figcaptionTag {
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    font-weight:bold;
 }
