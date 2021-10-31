@@ -11,17 +11,23 @@
 
 https://github.com/Edg100/is601_project1
 
-## Website pages (pictures)
+## Home Page picture
+![Home Page](Home_Page.jpg)
 
+## About Page picture
+![About Page](About_Page.jpg)
+
+## Events Page picture
+![Events_Page](Events_Page.jpg)
 
 ## W3C validator results for Home page
-
+![Home Page W3C Validator Results](Home_Page_W3C_Validator.jpg)
 
 ## W3C validation results for About page
-
+![About Page W3C Validator Results](About_Page_W3C_Validator.jpg)
 
 ## W3C validation results for Events page
-
+![Events Page W3C Validator Results](Events_Page_w3C_Validator.jpg)
 
 ## Commits (picture)
 
