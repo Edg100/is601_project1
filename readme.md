@@ -14,13 +14,13 @@ https://github.com/Edg100/is601_project1
 ## Website pages (pictures)
 
 
-##W3C validator results for Home page
+## W3C validator results for Home page
 
 
-##W3C validation results for About page
+## W3C validation results for About page
 
 
-##W3C validation results for Events page
+## W3C validation results for Events page
 
 
 ## Commits (picture)
