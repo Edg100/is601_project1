@@ -27,7 +27,7 @@ https://github.com/Edg100/is601_project1
 ![About Page W3C Validator Results](About_Page_W3C_Validator.jpg)
 
 ## W3C validation results for Events page
-![Events Page W3C Validator Results](Events_Page_w3C_Validator.jpg)
+![Events Page W3C Validator Results](Events_Page_W3C_Validator.jpg)
 
 ## Commits (picture)
 
