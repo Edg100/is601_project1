@@ -30,4 +30,4 @@ https://github.com/Edg100/is601_project1
 ![Events Page W3C Validator Results](Events_Page_W3C_Validator.jpg)
 
 ## Commits (picture)
-
+![Commit History](Commits_History.jpg)
